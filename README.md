@@ -4,7 +4,7 @@
 
 <p align="left">
   <ul>
-    <li>Oiii, me chamo Débora :)</li>
+    <li>Me chamo Débora :)</li>
     <li>Sou estudante de Desenvolvimento de sistemas</li>
     <li>Gosto muito de Banco de Dados</li>
     <li>Um do meus maiores hobbies é tocar teclado, mas também gosto de ler, montar puzzles, colecionar e desenhar.</li>
