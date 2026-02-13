@@ -14,7 +14,7 @@
 ###
 <div align= "center">
   
- ###Linguagens
+ <h2>Linguagens</h2>
 
 <img 
     align="left" 
