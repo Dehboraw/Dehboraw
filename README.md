@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Meu nome é Débora e eu sou uma estudante de Desenvolvimento de Sistemas</p>
+<p align="left">
+  <ol>
+    <li>Oiii, Meu nome é Débora :)</li>
+    <li>Sou estudante de Desenvolvimento de sistema</li>
+    <li>Gosto muito de Banco de Dados</li>
+    
+   </ol>
 
 ###
 
