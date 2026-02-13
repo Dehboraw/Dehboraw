@@ -12,7 +12,7 @@
     </ul>
 
 ###
-<div align= "center">
+<div align= "left">
   
 ### Linguagens:
 
