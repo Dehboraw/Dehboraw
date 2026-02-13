@@ -3,12 +3,12 @@
 ###
 
 <p align="left">
-  <ol>
+  <ul>
     <li>Oiii, Meu nome é Débora :)</li>
     <li>Sou estudante de Desenvolvimento de sistema</li>
     <li>Gosto muito de Banco de Dados</li>
     
-   </ol>
+   </ul>
 
 ###
 
