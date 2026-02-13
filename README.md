@@ -13,7 +13,8 @@
 
 ###
 <div align= "center">
- 🤖 Linguagens
+  
+ ###Linguagens
 
 <img 
     align="left" 
