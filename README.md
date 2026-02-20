@@ -16,8 +16,8 @@
 
 <img
 src="ab.jpeg"
-width="50px"
-height="50px"
+width="60px"
+height="60px"
 />
 
   
